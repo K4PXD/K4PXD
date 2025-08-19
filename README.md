@@ -126,5 +126,5 @@
   <p>PGP: <code>0x1A2B3C4D5E6F7890</code></p>
   <sub>Last authenticated: 2025-08-19T14:30:00Z</sub>
 </div>
-```
+
 
