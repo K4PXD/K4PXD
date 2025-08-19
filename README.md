@@ -1,124 +1,130 @@
 <div align="center">
   
-<!-- Banner with animated terminal -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F71D&background=000000&center=true&vCenter=true&width=1000&height=150&lines=%24+whoami;Cybersecurity+Specialist;Ethical+Hacker;Security+Researcher;CTF+Player;Bug+Bounty+Hunter)](https://git.io/typing-svg)
+<!-- Modern animated header -->
+[![Cyber Terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=2AFF8A&background=0D111700&center=true&vCenter=true&width=1000&height=120&lines=%24+whoami;Security+Architect;Offensive+Security+Engineer;Threat+Intelligence+Researcher;Vulnerability+Researcher;Security+Automation)](https://git.io/typing-svg)
 
-<!-- Profile views counter -->
-![](https://komarev.com/ghpvc/?username=yourusername&color=00ff41&style=flat-square)
-
-<!-- Social badges -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourid)
+<!-- Minimalist divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
 ---
 
-## 🔒 whoami
+## 🔐 Digital Identity
 
 ```json
 {
-  "name": "Your Name",
-  "title": "Cybersecurity Specialist | Ethical Hacker",
-  "location": "City, Country",
-  "pronouns": "he/him | she/her | they/them",
-  "focus": [
-    "Penetration Testing",
-    "Vulnerability Research",
-    "Network Security",
-    "Digital Forensics",
-    "Security Automation"
-  ],
+  "identity": {
+    "name": "Alex Morgan",
+    "title": "Senior Security Engineer",
+    "geo": "San Francisco, CA",
+    "pronouns": "they/them",
+    "specializations": [
+      "Cloud Security", 
+      "Threat Hunting",
+      "Reverse Engineering",
+      "Red Teaming",
+      "Security Tooling"
+    ]
+  },
   "credentials": [
-    "OSCP",
-    "CEH",
-    "CISSP",
-    "eJPT",
-    "Security+"
+    "OSCP", "CISSP", "AWS Security",
+    "GXPN", "CREST", "OSWE"
   ]
 }
 ```
 
 ---
 
-## 🛡️ Security Toolbelt
+## 🧰 Cyber Arsenal
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🔧 Tools & Technologies
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-111111?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-000000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white)
-
----
-
-## 📊 GitHub Stats & Activity
-
+### 🔧 Core Technologies
 <div align="center">
   
-<!-- GitHub stats with custom theme -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&background=000000&border=00F71D&stroke=00F71D&ring=00F71D&fire=00F71D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F71D&sideLabels=00F71D&dates=FFFFFF)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-<!-- Most used languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=000000&title_color=00F71D&text_color=FFFFFF&border_color=00F71D)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-<!-- Trophy case -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+### ⚔️ Offensive Tools
+<div align="center" style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center">
+  
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-111111?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=Nmap&logoColor=white)
+![C2](https://img.shields.io/badge/C2_Frameworks-4285F4?style=flat&logo=serverless&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-1F6BED?style=flat&logo=hex&logoColor=white)
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- Replace with your actual blog RSS feed -->
-- [Understanding Zero-Day Vulnerabilities](https://yourblog.com/zero-day)
-- [Wireless Network Penetration Testing Methodology](https://yourblog.com/wireless-pentest)
-- [Building a Home Security Lab on a Budget](https://yourblog.com/homelab)
-- [Reverse Engineering Malware: A Practical Approach](https://yourblog.com/malware-re)
+## 📈 Security Operations
 
----
-
-## 🔭 Current Projects
-<!-- Showcase your repositories -->
-[![WebSec Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=websec-toolkit&theme=dark&bg_color=000000&title_color=00F71D&text_color=FFFFFF&border_color=00F71D)](https://github.com/yourusername/websec-toolkit)
-[![CTF Solutions](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ctf-solutions&theme=dark&bg_color=000000&title_color=00F71D&text_color=FFFFFF&border_color=00F71D)](https://github.com/yourusername/ctf-solutions)
-[![Network Security Monitor](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=network-security-monitor&theme=dark&bg_color=000000&title_color=00F71D&text_color=FFFFFF&border_color=00F71D)](https://github.com/yourusername/network-security-monitor)
-
----
-
-## 🎯 Certifications
-<!-- Badges for your certifications -->
-[![OSCP](https://img.shields.io/badge/OSCP-FF0000?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/pwk-oscp/)
-[![CEH](https://img.shields.io/badge/CEH-FF0000?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-[![Security+](https://img.shields.io/badge/Security+-0078D4?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
-
----
-
-## 📬 Contact Me
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
-  </a>
-  <a href="https://keybase.io/yourusername">
-    <img src="https://img.icons8.com/color/48/000000/keybase.png" alt="Keybase"/>
-  </a>
-  <a href="https://hackerone.com/yourusername">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hackerone-a-bug-bounty-and-pentest-cybersecurity-platform-logo-shadow-tal-revivo.png" alt="HackerOne"/>
-  </a>
-</p>
-
-<!-- Matrix code rain effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/matrix.gif" alt="Matrix Code" width="100%">
+
+<!-- GitHub stats with dark matrix theme -->
+[![Cyber Metrics](https://github-readme-stats.vercel.app/api?username=cybersecdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=2AFF8A&icon_color=1f6feb&text_color=8b949e)](https://github.com/cybersecdev)
+
+[![Cyber Streak](https://streak-stats.demolab.com?user=cybersecdev&theme=dark&background=0D1117&border=2AFF8A&stroke=1F6FEB&ring=2AFF8A&fire=2AFF8A&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=2AFF8A&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔭 Active Research
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **CloudHunter** | Automated cloud misconfiguration scanner | ![Active](https://img.shields.io/badge/Status-Active-2AFF8A?style=flat) |
+| **MalwareDNA** | ML-powered malware analysis framework | ![Research](https://img.shields.io/badge/Phase-Research-1F6FEB?style=flat) |
+| **ZeroTrust Toolkit** | Implementation framework for ZT architecture | ![Production](https://img.shields.io/badge/Stage-Production-8B949E?style=flat) |
+
+---
+
+## 📜 Security Publications
+
+<!-- Blog posts with icons -->
+- 🛡️ [Advanced Persistence Techniques in Modern Infrastructures](https://yourblog.com/persistence)
+- 🔍 [Deconstructing APT41's Supply Chain Attacks](https://yourblog.com/apt41)
+- ⚙️ [Automating Cloud Security Posture Management](https://yourblog.com/cloud-cspm)
+- 💻 [Memory Forensics for Kubernetes Environments](https://yourblog.com/k8s-forensics)
+
+---
+
+## 🏆 Professional Credentials
+
+<div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center">
+
+[![OSCP](https://img.shields.io/badge/OSCP-E95420?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/)
+[![CISSP](https://img.shields.io/badge/CISSP-FF9900?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/)
+[![AWS](https://img.shields.io/badge/AWS_Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![SANS](https://img.shields.io/badge/GXPN-FF4D00?style=for-the-badge&logo=sans-institute&logoColor=white)](https://www.sans.org/)
+
+</div>
+
+---
+
+## 📡 Contact Protocol
+
+<div align="center">
+  
+[![Signal](https://img.shields.io/badge/Signal_Protocol-2592E9?style=for-the-badge&logo=signal&logoColor=white)](https://signal.org/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:secure@proton.me)
+[![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/cyberops)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/cyber_researcher)
+
+</div>
+
+<!-- Security footer -->
+<div align="center">
+  <br/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcybersecdev&countColor=%23263759&style=flat-square" />
+  <p>PGP: <code>0x1A2B3C4D5E6F7890</code></p>
+  <sub>Last authenticated: 2025-08-19T14:30:00Z</sub>
 </div>
 ```
 
