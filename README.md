@@ -15,12 +15,12 @@
 ```json
 {
   "identity": {
-    "name": "Alex Morgan",
+    "name": "Pasindu Dilshan",
     "title": "Senior Security Engineer",
     "geo": "San Francisco, CA",
-    "pronouns": "they/them",
+    "pronouns": "he/him",
     "specializations": [
-      "Cloud Security", 
+      "Penetration esting", 
       "Threat Hunting",
       "Reverse Engineering",
       "Red Teaming",
@@ -28,8 +28,7 @@
     ]
   },
   "credentials": [
-    "OSCP", "CISSP", "AWS Security",
-    "GXPN", "CREST", "OSWE"
+    "CC", "CRTA"
   ]
 }
 ```
@@ -67,9 +66,9 @@
 <div align="center">
 
 <!-- GitHub stats with dark matrix theme -->
-[![Cyber Metrics](https://github-readme-stats.vercel.app/api?username=cybersecdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=2AFF8A&icon_color=1f6feb&text_color=8b949e)](https://github.com/cybersecdev)
+[![Cyber Metrics](https://github-readme-stats.vercel.app/api?username=K4PXD&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=2AFF8A&icon_color=1f6feb&text_color=8b949e)](https://github.com/K4PXD)
 
-[![Cyber Streak](https://streak-stats.demolab.com?user=cybersecdev&theme=dark&background=0D1117&border=2AFF8A&stroke=1F6FEB&ring=2AFF8A&fire=2AFF8A&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=2AFF8A&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+[![Cyber Streak](https://streak-stats.demolab.com?user=K4PXD&theme=dark&background=0D1117&border=2AFF8A&stroke=1F6FEB&ring=2AFF8A&fire=2AFF8A&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=2AFF8A&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
@@ -97,32 +96,22 @@
 
 ## 🏆 Professional Credentials
 
-<div align="center" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center">
+<div align="left" style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center">
 
-[![OSCP](https://img.shields.io/badge/OSCP-E95420?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/)
-[![CISSP](https://img.shields.io/badge/CISSP-FF9900?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/)
-[![AWS](https://img.shields.io/badge/AWS_Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![SANS](https://img.shields.io/badge/GXPN-FF4D00?style=for-the-badge&logo=sans-institute&logoColor=white)](https://www.sans.org/)
+- [CRTA](https://labs.cyberwarfare.live/credential/achievement/6892f23e7c217ee6bfbae1ee)
+- [CISCO Cyber Security](https://www.credly.com/badges/8926f6a2-805e-4f0f-abb8-4b3cff21a51e/linked_in_profile)
+- [AWS Cloud Architect](https://www.credly.com/badges/fbd9ee27-83d3-4c36-befe-cd2a083b20e9/linked_in_profile)
+
 
 </div>
 
 ---
 
-## 📡 Contact Protocol
-
-<div align="center">
-  
-[![Signal](https://img.shields.io/badge/Signal_Protocol-2592E9?style=for-the-badge&logo=signal&logoColor=white)](https://signal.org/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:secure@proton.me)
-[![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/cyberops)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/cyber_researcher)
-
-</div>
 
 <!-- Security footer -->
 <div align="center">
   <br/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcybersecdev&countColor=%23263759&style=flat-square" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FK4PXD&countColor=%23263759&style=flat-square" />
   <p>PGP: <code>0x1A2B3C4D5E6F7890</code></p>
   <sub>Last authenticated: 2025-08-19T14:30:00Z</sub>
 </div>
