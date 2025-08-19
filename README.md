@@ -16,8 +16,8 @@
 {
   "identity": {
     "name": "Pasindu Dilshan",
-    "title": "Senior Security Engineer",
-    "geo": "San Francisco, CA",
+    "title": "Security Researcher",
+    "geo": "Colombo, LK",
     "pronouns": "he/him",
     "specializations": [
       "Penetration esting", 
