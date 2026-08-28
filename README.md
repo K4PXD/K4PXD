@@ -61,19 +61,6 @@
 
 ---
 
-## 📈 Security Operations
-
-<div align="center">
-
-<!-- GitHub stats with dark matrix theme -->
-[![Cyber Metrics](https://github-readme-stats.vercel.app/api?username=K4PXD&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=2AFF8A&icon_color=1f6feb&text_color=8b949e)](https://github.com/K4PXD)
-
-[![Cyber Streak](https://streak-stats.demolab.com?user=K4PXD&theme=dark&background=0D1117&border=2AFF8A&stroke=1F6FEB&ring=2AFF8A&fire=2AFF8A&currStreakNum=FFFFFF&sideNums=8B949E&currStreakLabel=2AFF8A&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🔭 Active Research
 
 | Project | Description | Status |
