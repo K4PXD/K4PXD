@@ -28,7 +28,7 @@
     ]
   },
   "credentials": [
-    "CC", "CRTA"
+    "CC", "CRTA", "CRTP", "K8-RTA", "AD-RTS", "MCRTA", "CNPen"
   ]
 }
 ```
